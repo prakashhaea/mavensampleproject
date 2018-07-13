@@ -5,7 +5,7 @@
   <packaging>war</packaging>
   <name>maven-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <!comment-->
+  
   <parent>
   	<groupId>com.kia</groupId>
   	<artifactId>maven-parentproject</artifactId>
