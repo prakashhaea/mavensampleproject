@@ -98,3 +98,8 @@
 2018-07-12 13:45:37,981 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\his60015\Desktop\TestJavaProjects\sampleprojects\maven-javaproject\src\main\resources
 2018-07-12 13:45:37,981 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-07-12 13:45:37,991 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\his60015\Desktop\TestJavaProjects\sampleprojects\maven-javaproject\src\test\resources
+2018-07-12 16:47:50,645 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kia:maven-webapp:1.0 @ C:\Users\his60015\Desktop\TestJavaProjects\sampleprojects\maven-webapp\pom.xml.
+2018-07-12 16:47:50,869 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:47:50,887 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-07-12 16:47:50,889 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-07-12 16:47:50,892 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\his60015\Desktop\TestJavaProjects\sampleprojects\maven-webapp\src\test\resources
